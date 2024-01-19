@@ -1,0 +1,68 @@
+<resources>
+    <string name="app_name">Aula</string>
+    <string name="btExe1">Run</string>
+    <string name="run">Run</string>
+    <string name="nome">Nome</string>
+    <string name="cmen">Cmen</string>
+
+
+    <string name="num2">Num2</string>
+    <string name="num1">Num1</string>
+    <string name="soma">+</string>
+    <string name="sub">-</string>
+    <string name="div">/</string>
+    <string name="mult">*</string>
+
+
+    <string name="exerc_cio_1">Exercício 1</string>
+    <string name="exerc_cio_2">Exercício 2</string>
+    <string name="exerc_cio_3">Exercício 3</string>
+    <string name="Resultado">TextView</string>
+
+
+    <string name="button">Button</string>
+    <string name="textview">TextView</string>
+    <string name="calcular">Calcular</string>
+    <string name="numero1">Num1</string>
+    <string name="numero2">Num2</string>
+    <string name="exerc_cio_4">Exercício 4</string>
+
+
+    <string name="historico">TextView</string>
+    <string name="digite_um_numero">Digite um Numero</string>
+    <string name="C">CE</string>
+    <string name="maisMenos">+/-</string>
+    <string name="apaga">◄</string>
+    <string name="dividi">/</string>
+    <string name="multiplica">*</string>
+    <string name="diminui">-</string>
+    <string name="mais">+</string>
+    <string name="igual">=</string>
+    <string name="ponto">.</string>
+    <string name="_0">0</string>
+    <string name="_1">1</string>
+    <string name="_2">2</string>
+    <string name="_3">3</string>
+    <string name="_4">4</string>
+    <string name="_5">5</string>
+    <string name="_6">6</string>
+    <string name="_7">7</string>
+    <string name="_8">8</string>
+    <string name="_9">9</string>
+
+
+
+
+
+    <string-array name="Opr">
+        <item>Soma</item>
+        <item>Subtração</item>
+        <item>Multiplicação</item>
+        <item>Divisão</item>
+
+
+    </string-array>
+
+
+
+</resources>
